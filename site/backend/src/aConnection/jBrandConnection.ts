@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://aquila-frontend-v02.netlify.app",
 
   uTagName: "Elevating Success Together",
+
+  vMainApplication: "Aquila Application",
+  vFrontendApplication: "Aquila Application (Frontend)",
+  vAdminApplication: "Aquila Application (Admin)",
+  vBackendApplication: "Aquila Application (Backend)",
 }
 
 export default brandConnection;
